@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "model_flow",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "model_flow (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "model_flow (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "models_manager",
+            "cwd": "packages\\models_manager",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "models_manager (profile mode)",
+            "cwd": "packages\\models_manager",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "models_manager (release mode)",
+            "cwd": "packages\\models_manager",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
