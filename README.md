@@ -1,16 +1,19 @@
-# model_flow
+Here's the improved layout:
 
-A new Flutter project.
+---
 
-## Getting Started
+# Explore Our 3D Viewing App: Model Flow
 
-This project is a starting point for a Flutter application.
+Discover the power of our advanced mobile app, designed to enhance your 3D model interaction experience. Load, view, and interact with models seamlessly on your device.
 
-A few resources to get you started if this is your first Flutter project:
+## Description
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Our app offers a user-friendly interface that enables you to effortlessly explore 3D models with precision and ease. Load local files for detailed exploration and manipulate models with intuitive controls. Rotate, zoom, and pan to examine every detail from every angle. Compatible with various file formats, our app caters to diverse user needs, providing an immersive 3D exploration experience anytime, anywhere.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Screenshot 1](https://github.com/LuccaGugescu/model_flow/assets/61294264/341b9066-bbe3-45ba-88f0-7e55fdec4f0a)
+![Screenshot 2](https://github.com/LuccaGugescu/model_flow/assets/61294264/f65fe005-f572-48b3-ba6e-01feca6900fe)
+![Screenshot 3](https://github.com/LuccaGugescu/model_flow/assets/61294264/981892a0-4016-4a63-bb24-aa84ccb74f9d)
+
+![Screenshot 4](https://github.com/LuccaGugescu/model_flow/assets/61294264/052a6abd-d4d1-4c8f-82ae-799133def8ae)
