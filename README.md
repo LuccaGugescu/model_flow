@@ -1,7 +1,3 @@
-Here's the improved layout:
-
----
-
 # Explore Our 3D Viewing App: Model Flow
 
 Discover the power of our advanced mobile app, designed to enhance your 3D model interaction experience. Load, view, and interact with models seamlessly on your device.
